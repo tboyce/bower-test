@@ -6,7 +6,7 @@
     "Tim Boyce <timothy.boyce@mmgins.com>"
   ],
   "description": "",
-  "main": "",
+  "main": "test.js",
   "moduleType": [],
   "license": "MIT",
   "ignore": [
